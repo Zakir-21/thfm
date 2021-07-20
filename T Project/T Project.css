@@ -1,0 +1,204 @@
+html{
+	scroll-behavior: smooth;
+}
+
+header i{
+	font-size: 30px;
+	color: #ff9801;
+}
+nav{
+	background:#fff;
+	opacity: 0.8;
+	box-shadow: -2px 2px 5px #007bff;
+}
+.nav-item{
+	padding-left:1em !important;
+}
+
+.nav-link{
+	text-transform: uppercase;
+}
+.navbar-brand{
+	color: #ff9801 !important;
+	font-size:26px;
+}
+.nav-item i{
+	color: #ff9801;
+	margin-right: 3px;
+}
+#showcase{
+	background-image: url('../our img/tawfiq.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	padding:200px 0px;
+	text-transform: capitalize;
+}
+#showcase h1{
+	color:#ff9801;
+}
+
+#boxesAbout .card{
+	border: 1px solid #007bff;
+}
+#boxesAbout h3{
+	color:#007bff;
+}
+#boxesAbout p{
+	font-size: 18px !important;
+}
+
+.card-header:hover{
+	background: #ff9801;
+	font-size: 18px;
+	color: white;
+}
+
+
+
+/*____________Blog Section____________*/
+
+.vimage{
+	background-image: url('../our img/video.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.fa-play{
+	font-size: 40px;
+	color: #ff9801;
+}
+
+
+/*__________Contact________*/
+#contactHead{
+		padding:150px 0px;
+		color: black;
+		background: rgba(82, 75, 75, 0.70);
+}
+
+#contact{
+	background-image: url('../our img/camera.jpeg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	padding-top: 98px;
+}
+#contact strong{
+	color: #ff9801;
+}
+.contOverlay{
+	background:rgba(82, 75, 75, 0.70);	
+}
+
+.iconCon{
+	font-size: 30px;
+	color: #ff9801;
+	background: white;
+	border: 8px solid white;
+	border-radius: 50%;
+}
+
+
+
+
+/*________Copyright_________*/
+#copyright h2{
+	color: #ff9801;
+}
+
+
+/*___________BLOG HTML PART______________*/
+#showcaseBlog{
+	background-image: url('../our img/video2.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	padding: 140px 0px;
+}
+
+
+
+
+
+/*____________BLOG VIDEOS SECTION___________*/
+
+
+#blogVideos .fa-play{
+	margin-left:100px;
+	color:red;
+}
+
+
+.videoOne{
+	background-image: url('../our img/hqdefault.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 45px 0px;
+}
+.videoTwo{
+	background-image: url('../our img/hqdefault2.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 45px 0px;
+}
+.videoThree{
+	background-image: url('../our img/hqdefault3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 45px 0px;
+}
+.videoFour{
+	background-image: url('../our img/hqdefault4.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 45px 0px;
+}
+
+
+.videoFive{
+	background-image: url('../our img/hqdefault5.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 45px 0px;
+}
+.videoSix{
+	background-image: url('../our img/hqdefault6.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 45px 0px;
+}
+.videoSeven{
+	background-image: url('../our img/hqdefault7.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 45px 0px;
+}
+
+
+
+#imageGallery img{
+	border:5px solid white;
+	box-shadow: 2px 2px 5px black;
+	height: 200px;
+}
+
+.myLink:hover{
+	font-size:20px;
+	color:lime;
+}
+
+
+
+
+
+
+
+.fontColor{
+	color: #ff9801;
+}
+.fontI{
+	font-size: 30px;
+	color: #ff9801;
+}
